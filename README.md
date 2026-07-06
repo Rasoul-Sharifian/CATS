@@ -2,7 +2,7 @@
 
 Official repository for the IPCAI 2026 paper:
 
-> **CATS: Camera Augmentation Training Strategy for Uncalibrated Stereo Matching in Minimally Invasive Surgery**
+> **Camera Augmentation: Enabling Uncalibrated Stereo Matching of Minimally-Invasive Surgery Images by Training from the Wealth of Public Synthetic Image Datasets**
 
 ## 🌐 Project Page
 
