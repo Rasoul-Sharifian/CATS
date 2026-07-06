@@ -41,12 +41,14 @@ The original repositories are:
 If you find this work useful, please cite:
 
 ```bibtex
-@inproceedings{sharifian2026cats,
-  title={Camera Augmentation Training Strategy for Uncalibrated Stereo Matching in Minimally Invasive Surgery},
-  author={Sharifian, Rasoul and ...},
-  booktitle={Information Processing in Computer-Assisted Interventions (IPCAI)},
-  year={2026}
-}
+      @article{sharifian2026camera,
+        title={Camera augmentation: enabling uncalibrated stereo matching of minimally invasive surgery images by training from the wealth of public synthetic image datasets},
+        author={Sharifian, Rasoul and Rabbani, Navid and Zhang, Yongcong and Bartoli, Adrien},
+        journal={International Journal of Computer Assisted Radiology and Surgery},
+        pages={to apear},
+        year={2026},
+        publisher={Springer}
+      }
 ```
 
 ## License
