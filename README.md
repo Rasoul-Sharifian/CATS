@@ -1,4 +1,4 @@
-# CATS: Camera Augmentation Training Strategy for Uncalibrated Stereo Matching in Minimally Invasive Surgery
+# CATS: Camera Augmentation Training Strategy for Uncalibrated Stereo Matching in MIS
 
 Official repository for the IPCAI 2026 paper:
 
